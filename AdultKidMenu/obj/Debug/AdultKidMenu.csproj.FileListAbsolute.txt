@@ -1,0 +1,7 @@
+C:\Users\k.b.8anos\source\repos\AdultKidMenu\AdultKidMenu\bin\Debug\AdultKidMenu.exe.config
+C:\Users\k.b.8anos\source\repos\AdultKidMenu\AdultKidMenu\bin\Debug\AdultKidMenu.exe
+C:\Users\k.b.8anos\source\repos\AdultKidMenu\AdultKidMenu\bin\Debug\AdultKidMenu.pdb
+C:\Users\k.b.8anos\source\repos\AdultKidMenu\AdultKidMenu\obj\Debug\AdultKidMenu.csprojAssemblyReference.cache
+C:\Users\k.b.8anos\source\repos\AdultKidMenu\AdultKidMenu\obj\Debug\AdultKidMenu.csproj.CoreCompileInputs.cache
+C:\Users\k.b.8anos\source\repos\AdultKidMenu\AdultKidMenu\obj\Debug\AdultKidMenu.exe
+C:\Users\k.b.8anos\source\repos\AdultKidMenu\AdultKidMenu\obj\Debug\AdultKidMenu.pdb
